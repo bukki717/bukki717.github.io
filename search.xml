@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>11.11</title>
+      <link href="/2024/11/11/11-11/"/>
+      <url>/2024/11/11/11-11/</url>
+      
+        <content type="html"><![CDATA[<p><strong>忽然发现我是个完美主义者，特别向往完美的东西</strong></p><p>今天给我昨天那个吵架的室友发了一篇小作文（说实话有点做作了，有点想用道德绑架她的意思，让她愧疚一下，不然总感觉理亏的是我）</p><p>但没成功（雾</p><p>她也回了我很长一段话，可以说是站在她的角度谴责了我一番，但神奇的是，<strong>突然就把我内心一直对我文章不满意的那个缺口补上了</strong>。</p><p>我让她愧疚的计划没有成功一点，但很神奇的，我好开心啊！！！</p><p>感觉整个事情完完整整的展示出来了，堪称完美。（感觉我有那个大病</p><hr><p><strong>其实还看出来一点东西，我的室友是不缺爱的</strong></p><p>而不像我，朋友很少，遇到一个关系好的就特别珍惜。</p><p>而我本来也不是这样的，<del>都怪我初中的初恋</del></p><p>之后越来越内向，表达越来越少，跟女生不太会相处，跟男生一对视就紧张</p><p>在充满爱的环境里，健健康康完完整整长大的孩子真好啊 ~~</p><p><del>我爸看到这句话要打我了</del></p><p>哈哈~</p><hr>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>11.10日记</title>
       <link href="/2024/11/10/11-10%E6%97%A5%E8%AE%B0/"/>
       <url>/2024/11/10/11-10%E6%97%A5%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[<h4 id="今天搭好了我的个人博客！"><a href="#今天搭好了我的个人博客！" class="headerlink" title="今天搭好了我的个人博客！"></a>今天搭好了我的个人博客！</h4><p>虽然还有很多待优化，但真的很棒！</p><p>以后就每天在这里更新我的学习生活啦~</p><p>下面随便测试一下</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">#include &lt;iostream&gt;</span><br><span class="line"></span><br><span class="line">#include &lt;cstdio&gt;</span><br></pre></td></tr></table></figure><ol><li>今天心情很糟糕</li><li>因为和舍友吵架很尴尬<ul><li><input disabled="" type="checkbox"> 虽然骂的很爽</li><li><input disabled="" type="checkbox"> 但一想到晚上回宿舍就很尴尬</li><li><input disabled="" type="checkbox"> 还是个学委</li><li><input disabled="" type="checkbox"> 唉</li></ul></li></ol>]]></content>
+        <content type="html"><![CDATA[<h4 id="今天搭好了我的个人博客！"><a href="#今天搭好了我的个人博客！" class="headerlink" title="今天搭好了我的个人博客！"></a>今天搭好了我的个人博客！</h4><p>虽然还有很多待优化，但真的很棒！</p><p>以后就每天在这里更新我的学习生活啦~</p><p>下面随便测试一下</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">#include &lt;iostream&gt;</span><br><span class="line"></span><br><span class="line">#include &lt;cstdio&gt;</span><br></pre></td></tr></table></figure><ol><li>今天心情很糟糕</li><li>因为和舍友吵架很尴尬<ul><li><input disabled="" type="checkbox"> 虽然骂的很爽</li><li><input disabled="" type="checkbox"> 但一想到晚上回宿舍就很尴尬</li><li><input disabled="" type="checkbox"> 还是个学委</li></ul></li></ol><p><img src="/IVs0OTZkZDdkZGM3OTg0YzQwZDU0ZmFiOTA1MTcxNTI5XShDOlxVc2Vyc1xsXERvY3VtZW50c1xXZUNoYXQgRmlsZXNcd3hpZF80Z3VhM3R0Z3FjcWMyMlxGaWxlU3RvcmFnZVxUZW1wXDQ5NmRkN2RkYzc5ODRjNDBkNTRmYWI5MDUxNzE1MjkuanBnKQ==" alt="base64"></p>]]></content>
       
       
       
@@ -17,19 +30,6 @@
             <tag> -study -life </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2024/11/06/hello-world/"/>
-      <url>/2024/11/06/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
